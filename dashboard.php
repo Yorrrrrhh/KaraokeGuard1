@@ -1,3 +1,4 @@
+#comment
 <?php
 session_start();
 // Redirect to login page if not logged in
